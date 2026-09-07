@@ -1,6 +1,6 @@
 baseURL = "https://camdao.github.io/FCJ-Workforce/"
 relativeURLs = false
-canonifyURLs = true
+canonifyURLs = false
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
