@@ -1,4 +1,4 @@
-baseURL = "https://camdao.github.io/"
+baseURL = "https://camdao.github.io/FCJ-Workforce/"
 relativeURLs = false
 canonifyURLs = true
 defaultContentLanguage = "en"
